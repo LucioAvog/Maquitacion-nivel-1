@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8adeb66ea48d6884c9ae1c35b5ca9e1a, type: 3}
+  m_Name: Union 2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScript
+  defaultPanelType: 0
+  nextConversation: {fileID: 0}
+  changeSceneOnEnd: 0
+  sceneToLoadOnEnd: 
+  conversationLines:
+  - speaker: Elodie
+    text: "\xA1Malditos bastardos! Se\xF1or, se\xF1ora, \xBFse encuentran bien? \u2500\u2500\u2500\u2500\u2500Elodie
+      se acerc\xF3 r\xE1pidamente a ellos, mientras yo la segu\xEDa por atr\xE1s.
+      \r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecino
+    text: "S\xED\u2026 gracias por eso. No quer\xEDa robar, lo juro. Pero mi sueldo
+      se va a los impuestos, no alcanza el dinero para darle comida a mis ni\xF1os
+      \u2500\u2500\u2500\u2500\u2500dijo el hombre empezando a levantarse, mientras
+      su esposa le ofrec\xEDa un pa\xF1uelo para limpiarse la sangre.\r\n"
+    showImage: 1
+    characterImage: {fileID: -7652905342678475747, guid: 433713055cbfcec4a8a040091dbbe9f0, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecina
+    text: "Escuch\xE9 que hay problemas en la plaza principal por esto mismo \u2500\u2500\u2500\u2500\u2500murmur\xF3
+      aquella se\xF1ora preocupada.\r\n"
+    showImage: 1
+    characterImage: {fileID: -8894258904770162708, guid: 6d753f0340af57948a2878db80eb22eb, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: "\xBFProblemas? \xBFQu\xE9 clases de problemas? \u2500\u2500\u2500\u2500\u2500pregunt\xE9
+      curioso.\r\n"
+    showImage: 1
+    characterImage: {fileID: -8894258904770162708, guid: 6d753f0340af57948a2878db80eb22eb, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecino
+    text: "Hay\u2026 bueno, los revolucionarios quieren derrocar la monarqu\xEDa
+      \u2500\u2500\u2500\u2500\u2500dijo el hombre en un susurro."
+    showImage: 1
+    characterImage: {fileID: -7652905342678475747, guid: 433713055cbfcec4a8a040091dbbe9f0, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Eso solo provoc\xF3 que Elodie tuviera una sonrisa orgullosa. La idea
+      de que un levantamiento ocurriera parec\xEDa entusiasmarla. No s\xE9 si pod\xEDa
+      decir lo mismo.\r\n"
+    showImage: 1
+    characterImage: {fileID: 168661227485434523, guid: 17bfadfbd598e5e4b8abcaf37a53538d, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecina
+    text: "\xBFEstar\xEDan interesados en eso? \u2500\u2500\u2500\u2500\u2500pregunt\xF3
+      la mujer, algo curiosa."
+    showImage: 1
+    characterImage: {fileID: -8894258904770162708, guid: 6d753f0340af57948a2878db80eb22eb, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Por supuesto! Me parece una idea muy acertada \r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "El se\xF1or pareci\xF3 suspirar, apretando a\xFAn m\xE1s su pa\xF1uelo
+      para evitar que la sangre siguiera saliendo. Con una expresi\xF3n rendida,
+      habl\xF3:"
+    showImage: 1
+    characterImage: {fileID: -7652905342678475747, guid: 433713055cbfcec4a8a040091dbbe9f0, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecino
+    text: "\xBFSaben? Creo que ustedes deber\xEDan saberlo. Hay una reuni\xF3n en
+      la plaza esta noche. Tres j\xF3venes involucrados son los organizadores de
+      esto. Uno de ellos representa al pueblo, otro a la revoluci\xF3n y el \xFAltimo
+      a la burgues\xEDa."
+    showImage: 1
+    characterImage: {fileID: -7652905342678475747, guid: 433713055cbfcec4a8a040091dbbe9f0, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "No tienen todos las mismas ideas? \xBFPor qu\xE9 los menciona por separado?
+      \u2500\u2500\u2500\u2500\u2500lade\xF3 Elodie, girando la cabeza de manera
+      curiosa.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Vecino
+    text: "No\u2026 eh, creanme que no. Ya los conocer\xE1n si deciden ir, son los
+      tres muy\u2026 opuestos "
+    showImage: 1
+    characterImage: {fileID: -7652905342678475747, guid: 433713055cbfcec4a8a040091dbbe9f0, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "la mujer llev\xF3 a su esposo dentro de su casa, despidi\xE9ndonos con
+      un asentamiento."
+    showImage: 0
+    characterImage: {fileID: 0}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Tenemos que ir! \r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: 'Elodie, no insistas, es peligroso.
+
+'
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 1
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "Fran\xE7ois, esto es una oportunidad de oro. \xBFCu\xE1ndo podremos ir
+      a verlo de primera mano? Somos simples pueblerinos, esto suena bien\u2026 anda,
+      \xBFque dices?\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices:
+    - buttonText: Aceptar
+      nextDialogue: {fileID: 0}
+      buttonBackground: {fileID: 0}
+      changeScene: 0
+      sceneToLoad: 
+    - buttonText: Negarse
+      nextDialogue: {fileID: 0}
+      buttonBackground: {fileID: 0}
+      changeScene: 0
+      sceneToLoad: 

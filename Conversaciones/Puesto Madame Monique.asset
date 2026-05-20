@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8adeb66ea48d6884c9ae1c35b5ca9e1a, type: 3}
+  m_Name: Puesto Madame Monique
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScript
+  defaultPanelType: 0
+  nextConversation: {fileID: 0}
+  changeSceneOnEnd: 1
+  sceneToLoadOnEnd: Regreso al Pueblo
+  conversationLines:
+  - speaker: Madame Monique
+    text: "Oh, \xA1Fran\xE7ois, Elodie! \xBFC\xF3mo se encuentran, ni\xF1os? \u2500\u2500\u2500\u2500\u2500dijo
+      alegremente.\r\n"
+    showImage: 1
+    characterImage: {fileID: -3323979213252645975, guid: a335b21f753df674e83b1c27be1f1e78, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Madame Monique! Que gusto verla, estamos muy bien. Vinimos por pan.\r\n"
+    showImage: 1
+    characterImage: {fileID: 168661227485434523, guid: 17bfadfbd598e5e4b8abcaf37a53538d, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: Dijo Elodie antes de que yo hablara
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Madame Monique
+    text: "Mis ni\xF1os, lamento decirles pero no he podido hacerlo. No podr\xE9
+      seguir con mi negocio. El precio del trigo ha aumentado mucho, y las cosechas
+      no mejoran.\r\n"
+    showImage: 1
+    characterImage: {fileID: -4513404909531883142, guid: bcf54f87b557a11458399ac93e5bff36, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Al o\xEDr sus palabras, sent\xED una fuerte tensi\xF3n en mi pecho mientras
+      mis hombros se tensaban. Esto era injusto.\r\n"
+    showImage: 1
+    characterImage: {fileID: -4513404909531883142, guid: bcf54f87b557a11458399ac93e5bff36, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Pero-, Madame Monique! Eso es tan injusto para usted. No podemos seguir
+      viviendo en esta miseria. \xA1Debemos actuar r\xE1pido! \u2500\u2500\u2500\u2500\u2500exclam\xF3
+      Elodie, con un tono preocupado.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 0, y: 0}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []

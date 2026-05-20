@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8adeb66ea48d6884c9ae1c35b5ca9e1a, type: 3}
+  m_Name: Option 1.1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScript
+  defaultPanelType: 0
+  nextConversation: {fileID: 11400000, guid: 96a9a6a427ea22348a92d2faab5fe9d0, type: 2}
+  changeSceneOnEnd: 0
+  sceneToLoadOnEnd: 
+  conversationLines:
+  - speaker: 'Francois '
+    text: "Y t\xFA tienes unos labios muy parlanchines, Elodie."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Vi como jadeaba ofendida para luego rodar los ojos, y quedar con el ce\xF1o
+      fruncido sin estar realmente enojada.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "Lo que digas. Ven\xEDa a regalarte una manzana."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
