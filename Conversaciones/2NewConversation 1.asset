@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8adeb66ea48d6884c9ae1c35b5ca9e1a, type: 3}
+  m_Name: 2NewConversation 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScript
+  defaultPanelType: 0
+  nextConversation: {fileID: 0}
+  changeSceneOnEnd: 0
+  sceneToLoadOnEnd: 
+  conversationLines:
+  - speaker: Elodie
+    text: "Mi pap\xE1 vendi\xF3 otra manta ayer \u2500\u2500\u2500\u2500\u2500dijo
+      tratando de recuperar su sonrisa."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 'Francois '
+    text: "\xBFPara comprar pan? \u2500\u2500\u2500\u2500\u2500pregunt\xE9 curioso.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Elodie solo pudo asentir en silencio mientras apretaba la mand\xEDbula."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "Ni siquiera alcanz\xF3 para uno entero."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Frunc\xED el ce\xF1o con evidente decepci\xF3n, la situaci\xF3n en Par\xEDs
+      estaba cada vez m\xE1s dif\xEDcil. Sin embargo, las fiestas de los reyes segu\xEDan,
+      incluso me atrevo a decir que cada vez m\xE1s extravagante.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 1
+    choices: []
+  - speaker: 'Francois '
+    text: "Hay rumores de que la gente desea\u2026 una revoluci\xF3n. \xBFCrees que
+      sea posible? \u2500\u2500\u2500\u2500\u2500pregunt\xE9 en voz baja, sin estar
+      muy convencido del todo.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "No ten\xEDa una opini\xF3n exacta. Tal solo cre\xEDa injusto que el pan
+      costara casi todas mis monedas, mientras la nobleza y el clero, que pose\xEDan
+      m\xE1s recursos, no deb\xEDan pagar una moneda."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Espero que s\xED! \xA1No dudar\xE9 en revelarme contra ellos! \u2500\u2500\u2500\u2500\u2500murmur\xF3
+      molesta.\r\n"
+    showImage: 1
+    characterImage: {fileID: -7981714356650272880, guid: 4b065b0a55a2f134d80cd534e47f14dc, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: "Dudo que tu padre est\xE9 de acuerdo, Elodie.\r\n"
+    showImage: 1
+    characterImage: {fileID: -7981714356650272880, guid: 4b065b0a55a2f134d80cd534e47f14dc, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1No me interesa! Mi padre est\xE1 acostumbrado a la monarqu\xEDa, a
+      pesar de que viene as\xED hace a\xF1os. \xA1La situaci\xF3n empeora cada vez
+      m\xE1s! Tenemos que hacer algo, \xA1el pueblo no puede quedarse de brazos cruzados!\r\n"
+    showImage: 1
+    characterImage: {fileID: -7981714356650272880, guid: 4b065b0a55a2f134d80cd534e47f14dc, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 1
+    shakeDuration: 1
+    shakeIntensity: 2
+    choicePanelType: 0
+    choices: []
+  - speaker: 
+    text: "Suspir\xE9 pesadamente, dando otro mordisco a mi manzana. Esto era algo
+      confuso para m\xED, no sab\xEDa que tanto ten\xEDa el derecho a opinar.\r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 1
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: "Somos campesinos, no nos preocupemos tanto por eso ahora. Tengo las suficientes
+      monedas para comprar un pan entero. \r\n"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Pero sale 15 libras! "
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 1
+    shakeDuration: 1
+    shakeIntensity: 2
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: "\xBFY?"
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Ganas 20 libras! Es casi toda tu paga, Fran\xE7ois."
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 1
+    shakeDuration: 1
+    shakeIntensity: 2
+    choicePanelType: 0
+    choices: []
+  - speaker: Francois
+    text: "No te preocupes por m\xED, tengo algunas cosechas por ahora. "
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices: []
+  - speaker: Elodie
+    text: "\xA1Est\xE1 bien! \xBFVamos a comprar el pan de do\xF1a Monique o vamos
+      al pueblo? "
+    showImage: 1
+    characterImage: {fileID: 3850027480385225625, guid: 61e58d5789b358445b85b781cf208851, type: 3}
+    imagePosition: 0
+    characterImageSize: {x: 300, y: 400}
+    panelType: 0
+    newBackground: {fileID: 0}
+    triggerShake: 0
+    shakeDuration: 0
+    shakeIntensity: 0
+    choicePanelType: 0
+    choices:
+    - buttonText: Ir al Pueblo
+      nextDialogue: {fileID: 11400000, guid: c3e5bb8259d8e8f4c8eeaa871e501c87, type: 2}
+      buttonBackground: {fileID: 3364988206025089807, guid: 838328866da142743a820ec1cd07e6ac, type: 3}
+      changeScene: 1
+      sceneToLoad: Camino al pueblo
+    - buttonText: Ir con Madame Monique
+      nextDialogue: {fileID: 11400000, guid: 38d5a168271f7ed4db4b822f4591545c, type: 2}
+      buttonBackground: {fileID: 3364988206025089807, guid: 838328866da142743a820ec1cd07e6ac, type: 3}
+      changeScene: 1
+      sceneToLoad: Camino Madame Monique
